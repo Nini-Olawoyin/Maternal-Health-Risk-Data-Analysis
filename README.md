@@ -5,4 +5,5 @@ To check the risk factors of pregnant mothers and how to mitigate it.
 Techniques
 
 Data Cleaning with Excel
-Data visualization with POwer BI
+
+Data visualization with POWER BI
